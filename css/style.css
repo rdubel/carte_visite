@@ -26,8 +26,31 @@ main > section {
 section section {
     background-color: #EAECEF;
     clear: right;
+    display: inline-block;
+    width: 100%;
 }
 
 img {
     float: right;
+    padding: 2em;
+}
+
+h1 {
+    width: 50%;
+    float: left;
+    padding: 1em;
+}
+
+main > section > p {
+    width: 50%;
+    float: left;
+    padding: 1em;
+}
+
+a {
+    width: 50%;
+}
+
+.phone {
+    width: 30%
 }
