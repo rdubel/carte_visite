@@ -1,0 +1,33 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  border: 0;
+  font-family: sans-serif;
+  font-size: 1em;
+  font-weight: normal;
+  font-style: normal;
+}
+
+main {
+    background-color: #EFF3F4    ;
+    height: 20em;
+    padding: 5em;
+}
+
+main > section {
+    background-color: white;
+    border-style: outset;
+    width: 480px;
+    margin: auto;
+    height: 220px;
+
+}
+
+section section {
+    background-color: #EAECEF;
+    clear: right;
+}
+
+img {
+    float: right;
+}
